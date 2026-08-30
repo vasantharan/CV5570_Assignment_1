@@ -4,4 +4,5 @@ pandas
 opencv-contrib-python
 ipykernel
 torch
+torchvision
 os-sys
