@@ -3,5 +3,3 @@ matplotlib
 pandas
 opencv-contrib-python
 ipykernel
-torch
-torchvision
